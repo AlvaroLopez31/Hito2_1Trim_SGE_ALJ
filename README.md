@@ -70,7 +70,7 @@ Antes de ejecutar la aplicación, asegúrate de instalar las librerías necesari
    pip install tkinter mysql-connector-python pandas matplotlib seaborn
 
 ## Repositorio
-Encuentra el código fuente y documentación completa en [GitHub]().
+Encuentra el código fuente y documentación completa en [GitHub](https://github.com/AlvaroLopez31/Hito2_1Trim_SGE_ALJ.git).
 
 ---
 
